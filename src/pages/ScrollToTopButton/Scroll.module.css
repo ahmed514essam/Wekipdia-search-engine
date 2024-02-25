@@ -1,0 +1,15 @@
+.atom img {
+    object-fit: cover;
+    width: 100%;
+}
+.atom {
+   width: 50px;
+   
+   border: none;
+   border-radius: 80px;
+   -webkit-border-radius: 80px;
+   -moz-border-radius: 80px;
+   -ms-border-radius: 80px;
+   -o-border-radius: 80px;
+   left: 10px;
+}
