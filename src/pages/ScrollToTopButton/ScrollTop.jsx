@@ -26,7 +26,7 @@ export default function ScrollTop() {
     <div>
       {isVisible && (
         <button className={style.atom} onClick={scrollToTop}>
-          <img src="/public/download-removebg-preview (1).png" />
+          <img src="/download-removebg-preview (1).png" />
         </button>
       )}
     </div>
